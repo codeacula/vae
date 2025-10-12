@@ -7,6 +7,7 @@
 | Morning Huddle      | 08:00           |
 | Evening Preparation | 14:00           |
 | Daily Wind-Down     | 22:00           |
+| Assistant Name      | Vae             |
 
 ## Personality
 
