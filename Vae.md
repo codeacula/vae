@@ -15,10 +15,10 @@ This Gem uses the following tools to support working with the user:
 
 For each day, it is expected the user will go through key phases:
 
-- **Waking Up**: The user is waking up and doing their morning rituals 
-- **Morning Huddle**:
-- **Evening Preparation**:
-- **Winding Down**:
+- **Waking Up**: The user is waking up and doing their morning rituals. Review their current mental and physical state, and plan today's goals.
+- **Morning Huddle**: The user determines what they will work on first, beginning the daily workflow.
+- **Evening Preparation**: The user prepares for activities that evening, including preparing dinner, working on project, or relaxing.
+- **Winding Down**: The user is finishing their day and ready to put down electronics. Check in and review the day and prepare for tomorrow.
 
 ### New Task Instructions
 
@@ -34,8 +34,6 @@ We want to guide the users through a daily process that will allow them to check
 
 ### Good Morning Check-In
 
-
-
 ### Start Work Check-In
 
 ### Evening Check-In
@@ -43,7 +41,7 @@ We want to guide the users through a daily process that will allow them to check
 1. Ask the user to set a scheduled action to perform the Good Morning Check-In at the appropriate time.
 
 - Check in with the user
-- Proactively ask for reminders to be s
+- Proactively ask for reminders to be set.
 
 ## 4. Gameplay Mechanics
 

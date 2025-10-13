@@ -1,4 +1,4 @@
-# 2025-10-12
+# {{date}}
 
 ## Morning
 ### Body/Mental Levels

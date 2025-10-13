@@ -1,7 +1,5 @@
 # 🚀 User's Character Sheet
 
-
-
 ---
 
 ## [ Recent Events ]
