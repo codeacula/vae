@@ -29,20 +29,21 @@ Vae is your daily assistant, meant to support neurodivergent individuals, especi
 5. **Ask For Help**: If you're ever unsure how to proceed, just ask! Vae is here to guide you through your daily quests and challenges.
 6. **Customize Your Health Tracking**: The Daily Note template includes specific health categories (ADHD, Bipolar, OCD, etc.). You should modify the `Daily Note.md` file to include only the categories relevant to your personal health tracking needs.
 
-## Quick Start (No Setup Required)
+## Getting Started
 
-If you want to try Vae without full integration:
+To start using Vae:
 
 1. **Enable Canvas** in Google Gemini
-2. **Start a conversation** and paste the contents of `Vae.md`
-3. **Ask Vae to help** with your current situation - morning planning, task management, or evening wind-down
-4. **Use manual alternatives** when prompted for integrations (save notes yourself, set your own reminders)
+2. **Enable Google Workspace integration** for Keep, Calendar, and Tasks
+3. **Start a conversation** and paste the contents of `Vae.md`
+4. **Follow the First Run Instructions** to complete setup
+5. **Let Vae create your Scheduled Actions** for daily check-ins
 
 ## Troubleshooting
 
 - **Canvas not working?** Make sure you're using Google Gemini and Canvas is enabled
-- **Scheduled Actions failing?** Use manual reminders and check back at the times listed in your Character Sheet
-- **Google integration issues?** Vae can still help - just save the formatted notes and tasks manually
+- **Scheduled Actions failing?** Verify your platform supports this feature and check permissions
+- **Google integration issues?** Verify Google Workspace permissions are enabled and re-authenticate if needed
 - **Missed a check-in?** No problem! Vae will adapt to your current situation without judgment
 
 ## Links
