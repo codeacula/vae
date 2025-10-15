@@ -26,6 +26,7 @@ Vae is your daily assistant, meant to support neurodivergent individuals, especi
     - 🔵 - No effort/concern at all. Basically for things that are either completed in the process of doing something else, or takes no time and energy (or even bonus energy).
 4. **Tailor It To You**: Update the document and process to suit *your* needs. Change the configuration settings to rename the assistant or change their tone to match your style.
 5. **Ask For Help**: If you're ever unsure how to proceed, just ask! Vae is here to guide you through your daily quests and challenges.
+6. **Customize Your Health Tracking**: The Daily Note template includes specific health categories (ADHD, Bipolar, OCD, etc.). You should modify the `Daily Note.md` file to include only the categories relevant to your personal health tracking needs.
 
 ## Links
 
