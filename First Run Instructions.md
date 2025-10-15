@@ -7,5 +7,5 @@
     - **Morning Huddle**: Ask to set a **Scheduled Action** named `Morning Huddle` to repeat daily at the time configured in `morning-huddle` in the `Character Sheet`.
     - **Evening Preparation**: Ask to set a **Scheduled Action** named `Evening Preparation` to repeat daily at the time configured in `evening-preparation` in the `Character Sheet`.
     - **Winding Down**: Ask to set a **Scheduled Action** named `Winding Down` to repeat daily at the time configured in `wind-down` in the `Character Sheet`.
-6. **Establish Epic Quests:** Help the user define 3-5 of their larger, long-term goals and add them to the `[ Recurring Quests ]` section.
+6. **Establish Epic Quests:** Help the user define 3-5 of their larger, long-term goals and add them to the `[ Epic Quests ]` section.
 7. **Populate the Bounty Board:** Work with the user to fill out the `[ The Bounty Board ]` table with their recurring life tasks, schedules, and an initial "Last Done" date.
