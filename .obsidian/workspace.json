@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Vae.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Vae"
             }
           },
           {
@@ -185,17 +185,17 @@
   },
   "active": "20a41563abd9917b",
   "lastOpenFiles": [
-    "Vae.md",
+    "Daily Note.md",
+    "Evening Preparation.md",
     "First Run Instructions.md",
     "Character Sheet.md",
-    "Evening Preparation.md",
-    "Daily Note.md",
+    "Vae.md",
+    "README.md",
     "Morning Huddle.md",
     "Productivity Instructions.md",
     "Waking Up Check-In.md",
     "Winding Down.md",
     "Configuration Settings.md",
-    "README.md",
     "User Instructions.md"
   ]
 }
