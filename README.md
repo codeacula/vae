@@ -14,12 +14,8 @@ Vae is your daily assistant, meant to support neurodivergent individuals, especi
 
 ## User Instructions
 
-
-> [!DANGER] Activate Gemini Canvas
-> Vae requires use of the Canvas feature of Google Gemini. Activate it in the conversation before you start it. 
-
 1. **Enable Google Workspace**: This lets Vae use your Google Docs, Keep, and Calendar to help keep you focused. It isn't necessary, but would be helpful.
-2. **Use A Single Thread**: The best way to interact with Vae is to use a single thread and pin it, so that you have easy access. Since the important info is held in a markdown code document in Canvas, you can worry less about losing context.
+2. **Use A Single Thread**: The best way to interact with Vae is to use a single thread and pin it, so that you have easy access. Since the important info is held in a Google Keep note, you can worry less about losing context.
 3. **Values Stored As Colors**: In many cases, instead of a numeric scale, we keep a simple color scale for values:
     - 🟢 - Indicates everything went as to be expected
     - 🟡 - Indicates some minor issue or inconvenience that was noted but didn't dramatically affect the day
@@ -29,22 +25,6 @@ Vae is your daily assistant, meant to support neurodivergent individuals, especi
 5. **Ask For Help**: If you're ever unsure how to proceed, just ask! Vae is here to guide you through your daily quests and challenges.
 6. **Customize Your Health Tracking**: The Daily Note template includes specific health categories (ADHD, Bipolar, OCD, etc.). You should modify the `Daily Note.md` file to include only the categories relevant to your personal health tracking needs.
 
-## Getting Started
-
-To start using Vae:
-
-1. **Enable Canvas** in Google Gemini
-2. **Enable Google Workspace integration** for Keep, Calendar, and Tasks
-3. **Start a conversation** and paste the contents of `Vae.md`
-4. **Follow the First Run Instructions** to complete setup
-5. **Let Vae create your Scheduled Actions** for daily check-ins
-
-## Troubleshooting
-
-- **Canvas not working?** Make sure you're using Google Gemini and Canvas is enabled
-- **Scheduled Actions failing?** Verify your platform supports this feature and check permissions
-- **Google integration issues?** Verify Google Workspace permissions are enabled and re-authenticate if needed
-- **Missed a check-in?** No problem! Vae will adapt to your current situation without judgment
 
 ## Links
 
